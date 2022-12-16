@@ -1,0 +1,12 @@
+# docker-compose up -d --build
+
+version: "3.9"
+services:
+  benchmarking:
+    build:
+        context: .
+    image: benchmarking-build
+    volumes:
+      - benchmarking-artifacts:/src/bin/publish/BenchmarkDotNet.Artifacts
+volumes:
+  benchmarking-artifacts:
