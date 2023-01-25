@@ -1,4 +1,3 @@
-# Benchmarking
 # Serilog Sinks Benchmark Test
 
 ## Debian 11 (container)
@@ -56,12 +55,3 @@ Here is the summary table legend:
 
   - 1 ns   : 1 Nanosecond  (0.000000001 sec)
   - 1 us   : 1 Microsecond (0.000001 sec)
-
-
-
-
-
-
-
-
-
