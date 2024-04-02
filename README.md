@@ -40,7 +40,6 @@ BenchmarkDotNet=v0.13.1, OS=debian 11 (container)
 ### AsyncConsoleLogger
 <img width="1200" alt="Console" src="https://user-images.githubusercontent.com/104366166/172503668-8e8566ac-1910-4d76-ae13-5568f32e7843.PNG">
 
-
 Here is the summary table legend:
 
   - Mean   : Arithmetic mean of all measurements
